@@ -21,7 +21,7 @@ A key focus of this implementation is the use of Bemis-Murcko Scaffold Splitting
 | Model | ROC-AUC | Precision |
 | :--- | :--- | :--- |
 | **Logistic Regression** | 0.81 | 76.5% |
-| **Neural Network (MLP)** | **0.82** | **78.2%** |
+| **Neural Network (MLP)** | **0.83** | **79.3%** |
 
 The model successfully identifies inhibitors with high precision, maintaining a strong predictive signal even when encountering novel chemical scaffolds.
 
